@@ -1,4 +1,4 @@
-# notebook
+# Unibombepe
 [![Build Status](https://travis-ci.org/nholthaus/notebook.svg?branch=master)](https://travis-ci.org/nholthaus/notebook) [![Build Status](https://ci.appveyor.com/api/projects/status/github/nholthaus/notebook?branch=master&svg=true)](https://ci.appveyor.com/project/nholthaus/gtest-gui) ![license](https://img.shields.io/badge/license-MIT-orange.svg) ![copyright](https://img.shields.io/badge/%C2%A9-Nic_Holthaus-orange.svg) ![language](https://img.shields.io/badge/language-c++-blue.svg) ![c++](https://img.shields.io/badge/std-c++14-blue.svg) ![Qt](https://img.shields.io/badge/Qt-5-blue.svg)<br>![msvc2013](https://img.shields.io/badge/MSVC-2013-ff69b4.svg) ![msvc2015](https://img.shields.io/badge/MSVC-2015-ff69b4.svg) ![gcc-4.9.3](https://img.shields.io/badge/GCC-4.9.3-ff69b4.svg) ![gcc-5.4.0](https://img.shields.io/badge/GCC-5.4.0-ff69b4.svg)
 
 
